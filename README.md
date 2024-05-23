@@ -1,5 +1,5 @@
 # CSE1321
-## Labs and Assignments from my CSE 1321 class
+## Labs and Assignments from my CSE 1321 (Programming and Problem Solving I) class
 ## Lab 2: A) MadLibs, B) a series of print statements to create a diamond, C) basic math to find the perimeter and area of a rectangle. Basic print statements, variables, and arithmetic used.
 ## Lab 3: A) APR calculator, B) GPA calculator, C) total money calculator. Floats and arithmetic used.
 ## Lab 4: A) Letter grade calculator, B) Basic schedule, C) Number manipulator. Selection structures used based on user input. If-else and switch statements used.
